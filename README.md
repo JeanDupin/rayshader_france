@@ -9,7 +9,7 @@ A special thanks to [Spencer Schien](https://twitter.com/MrPecners) for his tuto
 
 ### [Parc national des Écrins](/Ecrins/) ⛰️
 
-![ecrins](/Ecrins/retouches.png)
+![ecrins](/Ecrins/ecrins.jpg)
 
 ----
 
