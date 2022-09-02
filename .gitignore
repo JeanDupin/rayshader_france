@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 RayShaders.Rproj
+hdr/**
+*.png
+
