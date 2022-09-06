@@ -6,3 +6,6 @@ RayShaders.Rproj
 hdr/**
 *.png
 geo/**
+*.psd
+inser.R
+*.log
