@@ -15,7 +15,7 @@ A special thanks to [Spencer Schien](https://twitter.com/MrPecners) for his tuto
 
 ### [Parc national des Calanques](/Calanques/) 🌊
 
-![ecrins](/Calanques/calanques.jpq)
+![calanques](/Calanques/calanques.jpg)
 
 ----
 
