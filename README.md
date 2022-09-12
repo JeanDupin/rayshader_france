@@ -7,15 +7,15 @@ A special thanks to [Spencer Schien](https://twitter.com/MrPecners) for his tuto
 
 <details open><summary><b>French National Parks</b></summary>
 
-### [Parc national des Écrins](/Ecrins/) ⛰️
+### [Parc national des Écrins](/French National Parks/Ecrins/) ⛰️
 
-![ecrins](/Ecrins/ecrins.jpg)
+![ecrins](/French National Parks/Ecrins/ecrins.jpg)
 
 ----
 
-### [Parc national des Calanques](/Calanques/) 🌊
+### [Parc national des Calanques](/French National Parks/Calanques/) 🌊
 
-![calanques](/Calanques/calanques.jpg)
+![calanques](/French National Parks/Calanques/calanques.jpg)
 
 ----
 
