@@ -18,7 +18,7 @@ A special thanks to [Spencer Schien](https://twitter.com/MrPecners) for his tuto
 
 ----
 
-### [Parc national des Cévennes](/French%20National%20Parks/Cevennes/) 🍂
+### [Parc national des Cévennes](/French%20National%20Parks/Cevennes/) 🌟
 
 ![cevennes](/French%20National%20Parks/Cevennes/cevennes.jpg)
 
